@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HackYourWorldBae
-- 👀 I’m interested in ...Computer Programming
+- 👀 I’m interested in ...Web Dev and Automation
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...coding projects
 - 📫 How to reach me ...rojjustind@gmail.com
