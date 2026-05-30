@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web and Software Development<br>👯 I’m looking to collaborate on Coding Projects🌱 I’m currently learning Next.js<br>💬I may not know how to hack but i can surely hack you world baby<br>⚡ Fun fact - I Love You
+🔭 I’m currently working on Web and Software Development<br>👯 I’m looking to collaborate on Coding Projects<br>🌱 I’m currently learning Next.js<br>💬I may not know how to hack but i can surely hack you world baby<br>⚡ Fun fact - I Love You
 
 
 # 💻 Tech Stack:
